@@ -1,5 +1,12 @@
 # RandomBBCode
 A way for me to test some BBCode
 
-[size=4][b]Enter a number:[/b][/size]
-[input type=number min=1][/input]
+Title?
+# 1
+## 2
+### 3
+#### 4
+##### 5
+###### 6
+
+
